@@ -1,0 +1,6 @@
+# Inget känsligt ska hamna här, men skyddsnät ändå.
+*.pcap
+*.pcapng
+*.log
+/tmp/
+conf.db

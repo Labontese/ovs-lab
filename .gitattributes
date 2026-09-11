@@ -1,0 +1,3 @@
+# Skripten körs på Debian. CRLF ger "bad interpreter: /bin/bash^M".
+* text=auto eol=lf
+*.sh text eol=lf
